@@ -120,7 +120,7 @@ The portfolio does not claim completed top-level LVS verification for the full 1
 | File | Description |
 |---|---|
 | `README.md` | Project overview, architecture, results, and verification summary |
-| `Revised_Digital_IC_Design_Portfolio_Aibek_Bekbergen.docx` | Complete illustrated portfolio with schematics, layouts, simulations, DRC, and LVS evidence |
+| `Digital_IC_Design_Portfolio_Aibek_Bekbergen.pdf` | Complete illustrated portfolio with schematics, layouts, simulations, DRC, and LVS evidence |
 
 ## Author
 
